@@ -1,5 +1,9 @@
 package Helper;
 
+/**
+ * Page object class to store all the UI selectors to be used for testing for login page
+ */
+
 public class Helper_Selectors {
     // URLs
     public static final String HUDL_LOGIN_URL = "https://www.hudl.com/login";
