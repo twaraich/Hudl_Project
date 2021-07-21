@@ -1,6 +1,6 @@
 # Hudl_Project
 
-This repository houses the UI test cases written around the validation of hudl.com/login.
+This repository houses the UI test cases written around the validation of [Login Page](https://www.hudl.com/login).
 
 The repo includes the following files:
 - HudlLoginTest.java - All tests cases reside in this file
